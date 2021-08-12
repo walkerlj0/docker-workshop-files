@@ -2,4 +2,4 @@
 
 Yay 🎉
 
-trying first commit
+Trying first commit
